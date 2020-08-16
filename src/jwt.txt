@@ -1,0 +1,19 @@
+jason web token é uma string 
+que prova que o usuario e mesmo quem 
+ele diz que é 
+
+nessa string temos uma iformacao de indentificacao
+
+um jason web token so pode ser criado ou modificado 
+com uma chave que é uma senha que criamos e apenas 
+o nosso servidor sabe essa sequencia de caracteres
+
+payload significa os dados que nos desejamos 
+criar um token , nome ,email,endereco 
+informaçoes que identificam o usuario
+essa informacão que indentifica o usuario vai ser o id que 
+é atribuido a ele no banco de dados mongo
+
+
+
+
